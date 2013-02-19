@@ -1,0 +1,33 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html debug="true">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <title>FirebugLite 1.4 Testing</title>
+   <link href="style.css" type="text/css" rel="stylesheet">
+  <script type="text/javascript" src="lib/firebug-lite.js#startOpened"></script>
+</head>
+<body>
+
+<div class="controls">
+  Test Scenario: 
+  <select id="scenarioList" name="scenarioList">
+    <option value="jquiz/case-first-question">jQuiz - answer 1st question</option>
+    <option value="jquiz/case-preview">jQuiz - preview</option>
+  </select>   
+  Delay between steps: 
+  <select id="delayList" name="delayList">
+    <option value="0">no delay</option>
+    <option value="100">100 msec</option>
+    <option value="1000">1 sec</option>
+    <option value="3000">3 sec</option>
+    <option value="5000">5 sec</option>
+  </select>   
+  <input type="button" id="runScenario" name="runScenario" value="Run"></input>
+</div>
+
+  <iframe id="testerFrame" width="1000" height="300" frameBorder="0" scrolling="yes">Browser not compatible.</iframe>
+
+  <script data-main="app" src="../staging/etc/js/require/require.2.0.6.js"></script>
+
+</body>
+</html>

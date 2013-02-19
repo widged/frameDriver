@@ -1,0 +1,947 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Calen",
+				"CalendarConstants"
+			],
+			[
+				"enable",
+				"enableDrop"
+			],
+			[
+				"ena",
+				"enableClick"
+			],
+			[
+				"item",
+				"itemDropHandler"
+			],
+			[
+				"pCal",
+				"pCalendarWidget"
+			],
+			[
+				"jQ",
+				"jQueryUtils"
+			],
+			[
+				"getWeek",
+				"getWeekHeaders"
+			],
+			[
+				"Day",
+				"DayCells"
+			],
+			[
+				"calen",
+				"calendarScope"
+			],
+			[
+				"cale",
+				"calendarScope"
+			],
+			[
+				"agenda",
+				"agendaItems"
+			],
+			[
+				"red",
+				"redrawSingleEvent"
+			],
+			[
+				"list",
+				"listItemsSortedOnDate"
+			],
+			[
+				"event",
+				"eventHashCollection"
+			],
+			[
+				"getAge",
+				"getAgendaId"
+			],
+			[
+				"setD",
+				"setDisplayDate"
+			],
+			[
+				"more",
+				"moreOverflow"
+			],
+			[
+				"round",
+				"roundAtDay"
+			],
+			[
+				"jqu",
+				"addJQueryMixin"
+			],
+			[
+				"MI",
+				"MILLISECONDS_IN_DAY"
+			],
+			[
+				"getFirst",
+				"getFirstDayInSameWeek"
+			],
+			[
+				"droppa",
+				"droppableConfig"
+			],
+			[
+				"FMT",
+				"FMT_LAST"
+			],
+			[
+				"FM",
+				"FMT_TODAY"
+			],
+			[
+				"getD",
+				"getDate"
+			],
+			[
+				"milli",
+				"millisecondsInDay"
+			],
+			[
+				"day",
+				"dayQty"
+			],
+			[
+				"lastCell",
+				"lastCellWidth"
+			],
+			[
+				"weeks",
+				"weeksHeight"
+			],
+			[
+				"header",
+				"headerResize"
+			],
+			[
+				"build",
+				"buildCalendarHeader"
+			],
+			[
+				"buildCa",
+				"buildCalendarHeader"
+			],
+			[
+				"creat",
+				"createCalendarWeek"
+			],
+			[
+				"con",
+				"controller"
+			],
+			[
+				"fun",
+				"function"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "build/test/firebuglite.html",
+			"settings":
+			{
+				"buffer_size": 1921,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "build/test/index.html",
+			"settings":
+			{
+				"buffer_size": 1039,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Java/Ant.sublime-build",
+	"command_palette":
+	{
+		"height": 387.0,
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"SublimeCodeIntel: Disable Live Autocompletion for Current Language"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"int",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 153.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Applications/XAMPP/xamppfiles/htdocs/frame-tester/build/test/lib/frame-tester/tester.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/frame-tester/build/test/scenarios/jquiz/case1.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/frame-tester/src/jquiz/app.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/frame-tester/build/test/app.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/frame-tester/build/test/lib/frame-tester/testerHelper.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/frame-tester/src/site1/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/frame-tester/package.json",
+		"/Applications/XAMPP/xamppfiles/htdocs/frame-tester/src/site1/app.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/frame-tester/grunt.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/frame-tester/src/embed/css/style.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/frame-tester/src/jquiz/demo/Chemistry-Quiz.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/frame-tester/frame-tester.sublime-project",
+		"/Applications/XAMPP/xamppfiles/htdocs/frame-tester/build/test/style.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/frame-tester/src/jquiz/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/frame-tester/build/test/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/frame-tester/build/test/scenarios/site1/case1.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/veggie-patch/src/schedulerD3/randomData.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/veggie-patch/src/schedulerD3/mini.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/veggie-patch/src/schedulerD3/scheduler.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/veggie-patch/src/schedulerD3/eventView.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/veggie-patch/src/schedulerD3/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/veggie-patch/src/schedulerD3/app.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/veggie-patch/src/schedulerD3/swimlane.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/veggie-patch/specs/jasmine/spec/modules/scheduler/scheduleEventSpec.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/veggie-patch/src/embed/js/widged/components/scheduleEvent.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/veggie-patch/specs/jasmine/require-config.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/veggie-patch/src/scheduler/app.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/veggie-patch/src/sites/scripts/js/app.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/veggie-patch/src/visu/sankey4.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/veggie-patch/specs/jasmine/SpecRunner_modules.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/veggie-patch/specs/jasmine/jasmine-init.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/veggie-patch/libs/widged/ui/agenda/Agenda.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/veggie-patch/src/scheduler/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/veggie-patch/.gitignore",
+		"/Applications/XAMPP/xamppfiles/htdocs/veggie-patch/libs/widged/ui/agenda/EventItem.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/veggie-patch/package.json",
+		"/Applications/XAMPP/xamppfiles/htdocs/veggie-patch/_ archives/js/src/com/widged/ui/scheduler/SchedulerPlugin.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/veggie-patch/src/scheduler/scripts/js/app.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/veggie-patch/libs/widged/io/ICalLoader.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/veggie-patch/veggie-patch.sublime-project",
+		"/Applications/XAMPP/xamppfiles/htdocs/veggie-patch/specs/jasmine/spec/modules/components/scheduler/eventItemSpec.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/veggie-patch/specs/jasmine/spec/LexicalDecisionSpec.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/veggie-patch/src/embed/js/jquery-1.9.1.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/veggie-patch/specs/jasmine/spec/modules/scheduler/scheduleItemSpec.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/veggie-patch/specs/jasmine/spec/require-config.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/veggie-patch/specs/jasmine/spec/jasmine-init.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/veggie-patch/specs/jasmine/spec/jasmine-init",
+		"/Applications/XAMPP/xamppfiles/htdocs/veggie-patch/src/embed/js/widged/components/eventItem.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/veggie-patch/specs/jasmine/spec/modules/scheduler/eventItemSpec.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/veggie-patch/specs/jasmine/spec/widged/components/scheduler/eventItemSpec.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/veggie-patch/veggie-patch.sublime-workspace",
+		"/Applications/XAMPP/xamppfiles/htdocs/veggie-patch/libs/widged/io/PersistentStorage.js",
+		"/Users/marielle/.bash_login_notInUse",
+		"/Applications/XAMPP/xamppfiles/htdocs/garden/garden-js/libs/widged/ui/scheduler/SchedulerPlugin.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/garden/garden-js/libs/widged/utils/DateUtil.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/garden/garden-js/src/scheduler/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/garden/garden-js/libs/widged/ui/agenda/EventHashCollection.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/garden/garden-js/src/scheduler/scripts/js/app.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/garden/garden-js/libs/widged/ui/agenda/Agenda.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/garden/garden-js/libs/widged/io/ICalLoader.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/garden/garden-js/libs/widged/ui/agenda/AgendaLayer.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/garden/garden-js/src/sites/scripts/js/app.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/garden/garden-js/etc/garden.ics",
+		"/Applications/XAMPP/xamppfiles/htdocs/garden/garden-js/libs/widged/ui/scheduler/Scheduler.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/garden/garden-js/libs/widged/ui/MoreOverflow.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/garden/garden-js/garden-js.sublime-workspace",
+		"/Applications/XAMPP/xamppfiles/htdocs/garden/garden-js/src/sites/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/garden/garden-js/libs/widged/ui/mapEditor/CanvasManager.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/garden/garden-js/libs/widged/ui/mapEditor/MapManager.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/garden/garden-js/garden-js.sublime-project",
+		"/Applications/XAMPP/xamppfiles/htdocs/garden/garden-js/src/scheduler/skin/css/gardenScheduler.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/garden/js/docs.sh",
+		"/Applications/XAMPP/xamppfiles/htdocs/garden/app1/jquery-frontier-cal-1.3.2/js/frontierCalendar/widged/calendar/DayCells.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/garden/app1/dev-2pr3/build.xml",
+		"/Applications/XAMPP/xamppfiles/htdocs/garden/app1/dev-2pr3/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/garden/app1/jquery-frontier-cal-1.3.2/README",
+		"/Applications/XAMPP/xamppfiles/htdocs/garden/app1/jquery-frontier-cal-1.3.2/js/frontierCalendar/widged/utils/DateUtil.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/garden/app1/jquery-frontier-cal-1.3.2/js/frontierCalendar/jquery-frontier-cal-ml.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/garden/app1/jquery-frontier-cal-1.3.2/js/frontierCalendar/widged/io/ICalParser.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/garden/app1/jquery-frontier-cal-1.3.2/js/frontierCalendar/widged/calendar/DayLayer.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/garden/app1/jquery-frontier-cal-1.3.2/calendar-only.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/garden/app1/jquery-frontier-cal-1.3.2/js/frontierCalendar/widged/agenda/EventHashCollection.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/garden/app1/jquery-frontier-cal-1.3.2/js/frontierCalendar/widged/agenda/EventItem.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/garden/app1/jquery-frontier-cal-1.3.2/js/frontierCalendar/widged/agenda/EventDataConverter.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/garden/app1/jquery-frontier-cal-1.3.2/js/frontierCalendar/widged/calendar/CalendarWidget.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/garden/app1/jquery-frontier-cal-1.3.2/js/frontierCalendar/widged/calendar/CalendarJQuery.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/garden/app1/jquery-frontier-cal-1.3.2/js/frontierCalendar/widged/agenda/AgendaLayer.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/garden/app1/jquery-frontier-cal-1.3.2/js/frontierCalendar/widged/agenda/Agenda.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/garden/app1/jquery-frontier-cal-1.3.2/js/frontierCalendar/widged/ui/MoreOverflow.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/garden/app1/jquery-frontier-cal-1.3.2/js/frontierCalendar/widged/calendar/DayHeaders.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/garden/app1/jquery-frontier-cal-1.3.2/js/frontierCalendar/widged/utils/LogUtil.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/garden/app1/jquery-frontier-cal-1.3.2/js/frontierCalendar/widged/calendar/CalendarConstants.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/garden/app1/jquery-frontier-cal-1.3.2/js/frontierCalendar/widged/io/ICalLoader.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/garden/app1/jquery-frontier-cal-1.3.2 copy/calendar-only.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/garden/app1/jquery-frontier-cal-1.3.2/calendar-debug.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/garden/app1/jquery-frontier-cal-1.3.2/js/frontierCalendar/widged/DateUtil.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/garden/app1/jquery-frontier-cal-1.3.2/js/frontierCalendar/widged/LogUtil.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/garden/app1/jquery-frontier-cal-1.3.2/js/frontierCalendar/widged/agenda/EventItemRenderer.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/garden/app1/jquery-frontier-cal-1.3.2/js/frontierCalendar/widged/agenda/AgendaItem.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/garden/app1/jquery-frontier-cal-1.3.2/js/frontierCalendar/widged/agenda/AgendaItemCollection.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/garden/app1/jquery-frontier-cal-1.3.2/js/frontierCalendar/widged/agenda/AgendaItemHash.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/garden/app1/jquery-frontier-cal-1.3.2/js/frontierCalendar/wresize.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/garden/app1/jquery-frontier-cal-1.3.2/js/frontierCalendar/widged/data/ICalParser.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/garden/app1/jquery-frontier-cal-1.3.2/js/frontierCalendar/LogUtil.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/garden/app1/jquery-frontier-cal-1.3.2/js/frontierCalendar/widged/data/ICalParser",
+		"/Applications/XAMPP/xamppfiles/htdocs/garden/app1/jquery-frontier-cal-1.3.2/js/frontierCalendar/DateUtil.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/garden/app1/jquery-frontier-cal-1.3.2/css/frontierCalendar/jquery-frontier-cal-1.3.2.css",
+		"/Users/marielle/Library/Application Support/Sublime Text 2/Packages/Default/Global.sublime-settings",
+		"/Applications/XAMPP/xamppfiles/htdocs/garden/app1/jquery-frontier-cal-1.3.2/extra/datetest.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/garden/app1/dev/app/moonCalendar/moonCalendar.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/garden/app1/dev/app/controller/AppController.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/garden/app1/dev-2b2/build.xml",
+		"/Applications/XAMPP/xamppfiles/htdocs/garden/app1/dev-b2/build.xml",
+		"/Applications/XAMPP/xamppfiles/htdocs/garden/app1/dev/app/AppView.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/garden/app1/dev/app/app.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/garden/app1/dev/app/controller/AppControllers.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/garden/app1/dev/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/garden/app1/dev/app/controllers/AppController.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/garden/app1/dev/com/widged/garden/app.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/garden/app1/dev/app/view/AppView.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/garden/app1/dev/com/widged/garden/controller/AppController.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/garden/app1/dev/com/widged/garden/AppView.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/garden/app1/dev/app.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/garden/app1/dev/com/widged/cards/view/Cards.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/garden/app1/dev/app/cultivars/view/CultivarsList.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/garden/app1/dev/app/cards/view/Cards.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/garden/app1/dev/app/AppController.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/garden/aptana/Garden/app.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Applications/XAMPP/xamppfiles/htdocs/veggie-patch",
+			"/Applications/XAMPP/xamppfiles/htdocs/garden/garden-js",
+			"/Applications/XAMPP/xamppfiles/htdocs/garden/app1/jquery-frontier-cal-1.3.2/js/frontierCalendar/",
+			"/Applications/XAMPP/xamppfiles/htdocs/garden/app1/jquery-frontier-cal-1.3.2/js/frontierCalendar/private_.calendarScope",
+			"/Applications/XAMPP/xamppfiles/htdocs/garden/app1/jquery-frontier-cal-1.3.2/js/frontierCalendar/",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"multiList",
+			"_frame.find",
+			"testPath + 'src/",
+			"testPath + 'lib",
+			"live",
+			"now",
+			"Scheduler",
+			"chart",
+			"parseData",
+			"data",
+			"chart",
+			"parseData",
+			"chart",
+			"colorpicker",
+			"wresize.js",
+			"easeljs",
+			"1.8.0",
+			"jquery-1.8.0",
+			"jquery-1.4.2",
+			"1.7.1",
+			"1.9.1",
+			"1.7.1",
+			"setData",
+			"idIdx",
+			"_id",
+			"setData",
+			"getId",
+			"setData",
+			"_id",
+			"setData",
+			"_defaults",
+			"validateDates",
+			"getData",
+			"setData",
+			"getId",
+			"new Sche",
+			"new Seche",
+			"console",
+			"data",
+			"getData",
+			"setData",
+			"getData",
+			"getID",
+			"garden.ics",
+			"validateDate",
+			"validateDates",
+			"console",
+			"hasData",
+			"HOUR_IN_MS",
+			"instantiator",
+			"suiteComplete",
+			"scheduleEvent",
+			"EventItem",
+			"loadICalSource",
+			"iCalSource",
+			"garden.ics",
+			"etc/",
+			"etc",
+			"loadICalSource",
+			"ical",
+			"garden-js",
+			"PersistentStorage",
+			"abso",
+			"	",
+			"\\s+$",
+			"\\s$",
+			"	",
+			"getAgendaId",
+			"getAgendaItemById",
+			"getAgendaId",
+			" +$",
+			"updateAgendaItem",
+			"calendar.redraw()",
+			"	",
+			"clickAgendaItem",
+			"new Date(parseInt(",
+			"startDate",
+			"clickDate",
+			"colpkr",
+			"addForm",
+			"display-event-form",
+			"addEventForm",
+			"add-event",
+			"myAgendaClickHandler",
+			"isAll",
+			"display-event-form",
+			"add-event-form",
+			"eventHashCollection.addItem",
+			"addEventAndRender",
+			"addItem",
+			"setSource",
+			"persistentStorage",
+			"save",
+			"persistentStorage",
+			"mapEditor_storage",
+			"addEventAndRender",
+			"BtnDeleteAll",
+			"calendarList",
+			"calendar",
+			"this.style",
+			"[\\t ]+$",
+			"this.agendaLayer",
+			"eventHashCollection",
+			"this.eventHashCollection",
+			"eventHashCollection",
+			"this.calendar",
+			"this.eventHashCollection",
+			"this.calendar",
+			"[\\t ]+$",
+			"this.calendar",
+			"this.",
+			"this.renderDivElement",
+			"this.",
+			"renderDivElement",
+			"redrawSingleEvent",
+			"this.dayLayer",
+			"this.calendar",
+			"this.",
+			"triangle",
+			"[\\t ]+$",
+			"clickFromCalendarHandler",
+			"mouseOverFromCalendarHandler",
+			"[\\t ]+$",
+			"load",
+			"ics",
+			"PersistentStorage",
+			"console",
+			"console.log"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"libPath + 'frame-tester/",
+			"libPath + '",
+			"MaxiMap",
+			"instance",
+			"instantiator",
+			"   ",
+			"",
+			"   ",
+			"",
+			"   ",
+			"    ",
+			"elId",
+			"formElId",
+			"formId",
+			"",
+			"agendaLayer",
+			"eventHashCollection",
+			"calendar",
+			"eventHashCollection",
+			"calendar",
+			"",
+			"calendar",
+			"renderDivElement",
+			"dayLayer",
+			"calendar",
+			"",
+			"v_broccoli",
+			"handleImagesLoaded",
+			"handleVeggieMoved",
+			"handleVeggieDropped",
+			"handleStageChanged",
+			"url('../images",
+			"public_.model",
+			"EventItem",
+			"public_.dragStop_agendaCell",
+			"public_.dragStart_agendaCell",
+			"public_.callBack_agendaTooltip",
+			"public_.mouseOverEvent_agendaCell",
+			"public_.dropEvent_agendaCell",
+			"public_.clickEvent_agendaCell",
+			"private_.addMoreDiv",
+			"private_.clickFromMoreDialogHandler",
+			"public_.calendar",
+			"public_.agenda",
+			"public_.dayLayer",
+			"calendar.dayLayer",
+			"public_.clickEvent_dayCell",
+			"public_.el",
+			"public_.dayHash",
+			"private_.dragStop_agendaCell",
+			"private_.dragStart_agendaCell",
+			"private_.callBack_agendaTooltip",
+			"private_.mouseOverEvent_agendaCell",
+			"private_.dropEvent_agendaCell",
+			"private_.clickEvent_agendaCell",
+			"private_.clickEvent_dayCell",
+			"private_.dayHash",
+			"private_.el",
+			"private_.titleValue",
+			"private_.id",
+			"private_.mouseOverFromCalendarHandler",
+			"private_.clickFromCalendarHandler",
+			"private_.calendar",
+			"private_.calendarScope",
+			"private_",
+			"public_",
+			"private_",
+			"public_",
+			"private_",
+			"public_",
+			"widged.utils.DateUtil",
+			"this",
+			"public.agenda",
+			"public.dayLayer",
+			"CalendarJQuery",
+			"CalendarConstants",
+			"dayLayer",
+			"private.calendar",
+			"private.calendar.VisibleWeeks",
+			"dayLayer",
+			"private.dayLayer",
+			"calendar",
+			"public.calendarScope",
+			"div",
+			"<div>",
+			"event",
+			"item",
+			"itemHeight",
+			"agenda",
+			"calendar",
+			"agendaLayer",
+			"calendar",
+			"redrawSingleEvent",
+			"redrawEvents",
+			"EventItem",
+			"event",
+			"events",
+			"addEventAndRender",
+			"Agenda.getEventHash()",
+			"Agenda.getEvents()",
+			"onDataChange",
+			"EventItem",
+			"EventHashCollection",
+			"eventHashCollection",
+			"this.",
+			"calendarScope.Agenda.entryCount",
+			"calendarScope.Agenda.entryId",
+			"getItems()",
+			"getUserItems",
+			"getItemsForUser",
+			"toItem",
+			"refs",
+			"refs.calendarScope",
+			"this.calendarScope,",
+			"icalParser.model",
+			"model",
+			"   getValue",
+			"getValue",
+			"MILLISECONDS_IN_DAY",
+			"this.",
+			"	var ",
+			"var ",
+			"",
+			"this.",
+			"classScope",
+			"jQueryUtils.addCellElement",
+			"addCalendarElement",
+			"addCellElement"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "build/test/firebuglite.html",
+					"settings":
+					{
+						"buffer_size": 1921,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								84
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"jquery": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": true,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "fill",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "build/test/index.html",
+					"settings":
+					{
+						"buffer_size": 1039,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								84,
+								84
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"jquery": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": true,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "fill",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 223.0,
+	"status_bar_visible": true
+}
