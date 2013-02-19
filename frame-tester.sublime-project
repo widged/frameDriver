@@ -1,0 +1,28 @@
+{
+   "url" : "http://localhost:3001/frame-tester/",
+
+	"settings": {
+		"tab_size": 3, 
+		"translate_tabs_to_spaces": true,
+		"line_padding_bottom": 0
+   },
+
+   "folders": [
+      {
+         "path": "/Applications/XAMPP/xamppfiles/htdocs/frame-tester",
+         "name":"ALL",
+         "folder_exclude_patterns": ["src","build","specs","libs","docs","tasks","node_modules"]
+      }, {
+         "path": "/Applications/XAMPP/xamppfiles/htdocs/frame-tester/src/",
+         "name":"src"
+      }, {
+         "path": "/Applications/XAMPP/xamppfiles/htdocs/frame-tester/specs",
+         "name":"specs"
+      },
+{
+         "path": "/Applications/XAMPP/xamppfiles/htdocs/frame-tester/build/test",
+         "name":"build-test"
+      }      
+   ]
+
+}
