@@ -1,5 +1,5 @@
 {
-   "url" : "http://localhost:3001/frame-tester/",
+   "url" : "http://localhost:3001/frameDriver/",
 
 	"settings": {
 		"tab_size": 3, 
@@ -9,18 +9,18 @@
 
    "folders": [
       {
-         "path": "/Applications/XAMPP/xamppfiles/htdocs/frame-tester",
+         "path": "/Applications/XAMPP/xamppfiles/htdocs/frameDriver",
          "name":"ALL",
          "folder_exclude_patterns": ["src","build","specs","libs","docs","tasks","node_modules"]
       }, {
-         "path": "/Applications/XAMPP/xamppfiles/htdocs/frame-tester/src/",
+         "path": "/Applications/XAMPP/xamppfiles/htdocs/frameDriver/src/",
          "name":"src"
       }, {
-         "path": "/Applications/XAMPP/xamppfiles/htdocs/frame-tester/specs",
+         "path": "/Applications/XAMPP/xamppfiles/htdocs/frameDriver/specs",
          "name":"specs"
       },
 {
-         "path": "/Applications/XAMPP/xamppfiles/htdocs/frame-tester/build/test",
+         "path": "/Applications/XAMPP/xamppfiles/htdocs/frameDriver/build/test",
          "name":"build-test"
       }      
    ]
