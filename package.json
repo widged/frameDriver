@@ -1,23 +1,23 @@
 {
-  "name": "frame-tester",
+  "name": "frameDriver",
   "description": "Solution for integration testing using iframes",
   "version": "0.1.0",
-  "homepage": "https://github.com/widged/frame-tester",
+  "homepage": "https://github.com/widged/frameDriver",
   "author": {
     "name": "Marielle Lange",
     "email": "mlange@widged.com"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/widged/frame-tester.git"
+    "url": "git://github.com/widged/frameDriver.git"
   },
   "bugs": {
-    "url": "https://github.com/widged/frame-tester/issues"
+    "url": "https://github.com/widged/frameDriver/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/widged/frame-tester/blob/master/LICENSE-MIT"
+      "url": "https://github.com/widged/frameDriver/blob/master/LICENSE-MIT"
     }
   ],
   "dependencies": {

@@ -200,6 +200,7 @@
 	},
 	"file_history":
 	[
+		"/Applications/XAMPP/xamppfiles/htdocs/frameDriver/index.html",
 		"/Applications/XAMPP/xamppfiles/htdocs/frameDriver/build/test/firebuglite.html",
 		"/Applications/XAMPP/xamppfiles/htdocs/frameDriver/build/test/index.html",
 		"/Applications/XAMPP/xamppfiles/htdocs/frame-tester/build/test/lib/frame-tester/tester.js",
@@ -326,8 +327,7 @@
 		"/Applications/XAMPP/xamppfiles/htdocs/garden/app1/dev/com/widged/garden/AppView.js",
 		"/Applications/XAMPP/xamppfiles/htdocs/garden/app1/dev/app.js",
 		"/Applications/XAMPP/xamppfiles/htdocs/garden/app1/dev/com/widged/cards/view/Cards.js",
-		"/Applications/XAMPP/xamppfiles/htdocs/garden/app1/dev/app/cultivars/view/CultivarsList.js",
-		"/Applications/XAMPP/xamppfiles/htdocs/garden/app1/dev/app/cards/view/Cards.js"
+		"/Applications/XAMPP/xamppfiles/htdocs/garden/app1/dev/app/cultivars/view/CultivarsList.js"
 	],
 	"find":
 	{
@@ -351,6 +351,8 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"frame-tester",
+			"Frame-tester",
 			"multiList",
 			"_frame.find",
 			"testPath + 'src/",
@@ -476,9 +478,7 @@
 			"[\\t ]+$",
 			"load",
 			"ics",
-			"PersistentStorage",
-			"console",
-			"console.log"
+			"PersistentStorage"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -486,6 +486,8 @@
 		"regex": false,
 		"replace_history":
 		[
+			"frameDriver",
+			"FrameDriver",
 			"libPath + 'frame-tester/",
 			"libPath + '",
 			"MaxiMap",
@@ -611,9 +613,7 @@
 			"",
 			"this.",
 			"classScope",
-			"jQueryUtils.addCellElement",
-			"addCalendarElement",
-			"addCellElement"
+			"jQueryUtils.addCellElement"
 		],
 		"reverse": false,
 		"show_context": true,

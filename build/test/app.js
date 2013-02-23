@@ -3,6 +3,7 @@
  */
 
 window.trace = function(msg) {
+  // var trace = console.log.bind(console);
   var args = Array.prototype.slice.call(arguments);
   args.splice(0,1);
   if(args && args[0]) {
@@ -18,11 +19,11 @@ window.require.config({
   paths: {
     jquery                       : libPath + 'jquery-1.8.2.min',
     jquery_ui                    : libPath + 'jquery-ui-1.10.0',
-    test_tester                  : libPath + 'frame-tester/tester',
-    test_testerHelper            : libPath + 'frame-tester/testerHelper',
-    test_frame                   : libPath + 'frame-tester/frame',
-    test_frameHelper             : libPath + 'frame-tester/frameHelper',
-    test_domHelper               : libPath + 'frame-tester/domHelper'
+    test_tester                  : libPath + 'frameDriver/tester',
+    test_testerHelper            : libPath + 'frameDriver/testerHelper',
+    test_frame                   : libPath + 'frameDriver/frame',
+    test_frameHelper             : libPath + 'frameDriver/frameHelper',
+    test_domHelper               : libPath + 'frameDriver/domHelper'
  }
 });
 
