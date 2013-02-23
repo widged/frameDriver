@@ -15,9 +15,6 @@
       }, {
          "path": "/Applications/XAMPP/xamppfiles/htdocs/frameDriver/src/",
          "name":"src"
-      }, {
-         "path": "/Applications/XAMPP/xamppfiles/htdocs/frameDriver/specs",
-         "name":"specs"
       },
 {
          "path": "/Applications/XAMPP/xamppfiles/htdocs/frameDriver/build/test",
